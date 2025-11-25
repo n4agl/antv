@@ -85,7 +85,6 @@ const config: Config = {
       },
     },
   },
-  plugins: [require('@tailwindcss/forms')],
 } satisfies Config;
 
 export default config;
